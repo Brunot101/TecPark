@@ -43,6 +43,7 @@ namespace TecParkk
         private void bt_acrescimo15(object sender, EventArgs e)
         {
             acrescimo15 += 15;
+            cliente1.acrescimos[0] += 1;
             tx_acrescimo15.Text = acrescimo15.ToString();
 
         }
@@ -51,17 +52,20 @@ namespace TecParkk
         private void bt_acrescimo30(object sender, EventArgs e)
         {
             acrescimo30 += 30;
+            cliente1.acrescimos[1] += 1;
             tx_acrescimo30.Text = acrescimo30.ToString();
         }
 
         private void bt_acrescimo45(object sender, EventArgs e)
-        {
+        {   
             acrescimo45 += 45;
+            cliente1.acrescimos[2] += 1;
             tx_acrescimo45.Text = acrescimo45.ToString();
         }
         private void bt_acrescimo60(object sender, EventArgs e)
         {
             acrescimo60 += 60;
+            cliente1.acrescimos[3] += 1;
             tx_acrescimo60.Text = acrescimo60.ToString();
         }
 
@@ -74,6 +78,7 @@ namespace TecParkk
             if(acrescimo15 - 15 > 0)
             {
                 acrescimo15 -= 15;
+                cliente1.acrescimos[0] -= 1;
                 tx_acrescimo15.Text = acrescimo15.ToString();
             }
             else
@@ -91,7 +96,7 @@ namespace TecParkk
             if (acrescimo30 - 30 > 0)
             {
                 acrescimo30 -= 30;
-                
+                cliente1.acrescimos[1] -= 1;
             }
             else
             {
@@ -106,7 +111,7 @@ namespace TecParkk
             if (acrescimo45 - 45 > 0)
             {
                 acrescimo45 -= 45;
-               
+                cliente1.acrescimos[2] -= 1;
             }
             else
             {
@@ -120,7 +125,7 @@ namespace TecParkk
             if (acrescimo60 - 60 > 0)
             {
                 acrescimo60 -= 60;
-                
+                cliente1.acrescimos[3] -= 1;
             }
             else
             {

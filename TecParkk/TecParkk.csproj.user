@@ -19,6 +19,9 @@
     <Compile Update="Remove.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Resumo.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Tempo.cs">
       <SubType>Form</SubType>
     </Compile>

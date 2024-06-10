@@ -62,6 +62,12 @@ namespace TecParkk
             removeColumn.UseColumnTextForButtonValue = true;
             dataGridViewClientes.Columns.Add(removeColumn);
 
+            DataGridViewButtonColumn payCheckColumn = new DataGridViewButtonColumn();
+            payCheckColumn.Name = "Pagamento";
+            payCheckColumn.Text = "R$";
+            payCheckColumn.UseColumnTextForButtonValue = true;
+            dataGridViewClientes.Columns.Add(payCheckColumn);
+
         }
         
 
@@ -120,6 +126,17 @@ namespace TecParkk
                 remove.ShowDialog();
                 AtualizarDataGridView();
                 
+
+
+            }
+
+            if (e.ColumnIndex == dataGridViewClientes.Columns["Pagamento"].Index && e.RowIndex >= 0 && e.RowIndex < clientes.Count())
+            {
+
+                Resumo resumo = new Resumo(clientes[e.RowIndex]);
+                resumo.ShowDialog();
+                AtualizarDataGridView();
+
 
 
             }

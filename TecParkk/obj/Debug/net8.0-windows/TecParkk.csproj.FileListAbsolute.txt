@@ -20,3 +20,5 @@ C:\Users\bfggd\source\repos\TecParkk\TecParkk\obj\Debug\net8.0-windows\TecParkk.
 C:\Users\bfggd\source\repos\TecParkk\TecParkk\obj\Debug\net8.0-windows\TecParkk.Acoes.resources
 C:\Users\bfggd\source\repos\TecParkk\TecParkk\obj\Debug\net8.0-windows\TecParkk.Tempo.resources
 C:\Users\bfggd\source\repos\TecParkk\TecParkk\obj\Debug\net8.0-windows\TecParkk.Remove.resources
+C:\Users\bfggd\source\repos\TecParkk\TecParkk\obj\Debug\net8.0-windows\TecParkk.Resumo.resources
+C:\Users\bfggd\source\repos\TecParkk\TecParkk\obj\Debug\net8.0-windows\TecParkk.sourcelink.json

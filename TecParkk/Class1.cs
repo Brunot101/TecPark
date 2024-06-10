@@ -15,8 +15,12 @@ namespace TecParkk
         private string resp { get; set; }
         private string numResp { get; set; }
         private int tempo { get; set; }
+        private int tempo_ini;
         private string obs { get; set; }
         private Timer timer;
+        public List<int> acrescimos = new List<int>();
+        
+
 
         public Cliente(string nome, string idade, string resp, string numResp, int tempo, string obs)
         {
@@ -31,6 +35,15 @@ namespace TecParkk
                 this.timer = new Timer();
                 this.timer.Interval = 60000; // 1 minuto
                 this.timer.Tick += Timer_Tick;
+                this.tempo_ini = tempo;
+                acrescimos.Add(0);
+                acrescimos.Add(0);
+                acrescimos.Add(0);
+                acrescimos.Add(0);
+
+
+
+
                 this.timer.Start();
 
             }
@@ -54,6 +67,10 @@ namespace TecParkk
         {
 
             return nome;
+        }
+        public int getTempoIni()
+        {
+            return tempo_ini;
         }
 
         public string getIdade()
