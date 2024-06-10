@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bfggd\\source\\repos\\TecParkk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79302809-CB97-415F-88C9-4E9B9060124D}|TecParkk\\TecParkk.csproj|c:\\users\\bfggd\\source\\repos\\tecparkk\\tecparkk\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79302809-CB97-415F-88C9-4E9B9060124D}|TecParkk\\TecParkk.csproj|solutionrelative:tecparkk\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79302809-CB97-415F-88C9-4E9B9060124D}|TecParkk\\TecParkk.csproj|C:\\Users\\bfggd\\source\\repos\\TecParkk\\tecparkk\\adicionar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79302809-CB97-415F-88C9-4E9B9060124D}|TecParkk\\TecParkk.csproj|solutionrelative:tecparkk\\adicionar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79302809-CB97-415F-88C9-4E9B9060124D}|TecParkk\\TecParkk.csproj|C:\\Users\\bfggd\\source\\repos\\TecParkk\\tecparkk\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79302809-CB97-415F-88C9-4E9B9060124D}|TecParkk\\TecParkk.csproj|solutionrelative:tecparkk\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79302809-CB97-415F-88C9-4E9B9060124D}|TecParkk\\TecParkk.csproj|c:\\users\\bfggd\\source\\repos\\tecparkk\\tecparkk\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79302809-CB97-415F-88C9-4E9B9060124D}|TecParkk\\TecParkk.csproj|solutionrelative:tecparkk\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79302809-CB97-415F-88C9-4E9B9060124D}|TecParkk\\TecParkk.csproj|c:\\users\\bfggd\\source\\repos\\tecparkk\\tecparkk\\remove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79302809-CB97-415F-88C9-4E9B9060124D}|TecParkk\\TecParkk.csproj|solutionrelative:tecparkk\\remove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79302809-CB97-415F-88C9-4E9B9060124D}|TecParkk\\TecParkk.csproj|c:\\users\\bfggd\\source\\repos\\tecparkk\\tecparkk\\remove.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79302809-CB97-415F-88C9-4E9B9060124D}|TecParkk\\TecParkk.csproj|solutionrelative:tecparkk\\remove.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79302809-CB97-415F-88C9-4E9B9060124D}|TecParkk\\TecParkk.csproj|C:\\Users\\bfggd\\source\\repos\\TecParkk\\tecparkk\\acoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79302809-CB97-415F-88C9-4E9B9060124D}|TecParkk\\TecParkk.csproj|solutionrelative:tecparkk\\acoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79302809-CB97-415F-88C9-4E9B9060124D}|TecParkk\\TecParkk.csproj|c:\\users\\bfggd\\source\\repos\\tecparkk\\tecparkk\\adicionar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79302809-CB97-415F-88C9-4E9B9060124D}|TecParkk\\TecParkk.csproj|solutionrelative:tecparkk\\adicionar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79302809-CB97-415F-88C9-4E9B9060124D}|TecParkk\\TecParkk.csproj|c:\\users\\bfggd\\source\\repos\\tecparkk\\tecparkk\\remove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79302809-CB97-415F-88C9-4E9B9060124D}|TecParkk\\TecParkk.csproj|solutionrelative:tecparkk\\remove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79302809-CB97-415F-88C9-4E9B9060124D}|TecParkk\\TecParkk.csproj|C:\\Users\\bfggd\\source\\repos\\TecParkk\\tecparkk\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79302809-CB97-415F-88C9-4E9B9060124D}|TecParkk\\TecParkk.csproj|solutionrelative:tecparkk\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79302809-CB97-415F-88C9-4E9B9060124D}|TecParkk\\TecParkk.csproj|c:\\users\\bfggd\\source\\repos\\tecparkk\\tecparkk\\acoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79302809-CB97-415F-88C9-4E9B9060124D}|TecParkk\\TecParkk.csproj|solutionrelative:tecparkk\\acoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79302809-CB97-415F-88C9-4E9B9060124D}|TecParkk\\TecParkk.csproj|c:\\users\\bfggd\\source\\repos\\tecparkk\\tecparkk\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79302809-CB97-415F-88C9-4E9B9060124D}|TecParkk\\TecParkk.csproj|solutionrelative:tecparkk\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79302809-CB97-415F-88C9-4E9B9060124D}|TecParkk\\TecParkk.csproj|c:\\users\\bfggd\\source\\repos\\tecparkk\\tecparkk\\tempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79302809-CB97-415F-88C9-4E9B9060124D}|TecParkk\\TecParkk.csproj|solutionrelative:tecparkk\\tempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79302809-CB97-415F-88C9-4E9B9060124D}|TecParkk\\TecParkk.csproj|C:\\Users\\bfggd\\source\\repos\\TecParkk\\tecparkk\\tempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79302809-CB97-415F-88C9-4E9B9060124D}|TecParkk\\TecParkk.csproj|solutionrelative:tecparkk\\tempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79302809-CB97-415F-88C9-4E9B9060124D}|TecParkk\\TecParkk.csproj|c:\\users\\bfggd\\source\\repos\\tecparkk\\tecparkk\\tempo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79302809-CB97-415F-88C9-4E9B9060124D}|TecParkk\\TecParkk.csproj|solutionrelative:tecparkk\\tempo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79302809-CB97-415F-88C9-4E9B9060124D}|TecParkk\\TecParkk.csproj|c:\\users\\bfggd\\source\\repos\\tecparkk\\tecparkk\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79302809-CB97-415F-88C9-4E9B9060124D}|TecParkk\\TecParkk.csproj|solutionrelative:tecparkk\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\bfggd\\source\\repos\\TecParkk\\TecParkk\\Class1.cs",
+              "RelativeDocumentMoniker": "TecParkk\\Class1.cs",
+              "ToolTip": "C:\\Users\\bfggd\\source\\repos\\TecParkk\\TecParkk\\Class1.cs",
+              "RelativeToolTip": "TecParkk\\Class1.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:20:43.457Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Acoes.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\bfggd\\source\\repos\\TecParkk\\TecParkk\\Acoes.cs",
+              "RelativeDocumentMoniker": "TecParkk\\Acoes.cs",
+              "ToolTip": "C:\\Users\\bfggd\\source\\repos\\TecParkk\\TecParkk\\Acoes.cs [Projeto]",
+              "RelativeToolTip": "TecParkk\\Acoes.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:28:40.985Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Remove.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\bfggd\\source\\repos\\TecParkk\\TecParkk\\Remove.Designer.cs",
+              "RelativeDocumentMoniker": "TecParkk\\Remove.Designer.cs",
+              "ToolTip": "C:\\Users\\bfggd\\source\\repos\\TecParkk\\TecParkk\\Remove.Designer.cs",
+              "RelativeToolTip": "TecParkk\\Remove.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:31:52.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Remove.cs",
+              "DocumentMoniker": "C:\\Users\\bfggd\\source\\repos\\TecParkk\\TecParkk\\Remove.cs",
+              "RelativeDocumentMoniker": "TecParkk\\Remove.cs",
+              "ToolTip": "C:\\Users\\bfggd\\source\\repos\\TecParkk\\TecParkk\\Remove.cs",
+              "RelativeToolTip": "TecParkk\\Remove.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:21:42.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Controle.cs",
+              "DocumentMoniker": "C:\\Users\\bfggd\\source\\repos\\TecParkk\\TecParkk\\Controle.cs",
+              "RelativeDocumentMoniker": "TecParkk\\Controle.cs",
+              "ToolTip": "C:\\Users\\bfggd\\source\\repos\\TecParkk\\TecParkk\\Controle.cs",
+              "RelativeToolTip": "TecParkk\\Controle.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwEcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T19:21:38.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\bfggd\\source\\repos\\TecParkk\\TecParkk\\Home.cs",
+              "RelativeDocumentMoniker": "TecParkk\\Home.cs",
+              "ToolTip": "C:\\Users\\bfggd\\source\\repos\\TecParkk\\TecParkk\\Home.cs [Projeto]",
+              "RelativeToolTip": "TecParkk\\Home.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:51:26.645Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Adicionar.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\bfggd\\source\\repos\\TecParkk\\TecParkk\\Adicionar.cs",
+              "RelativeDocumentMoniker": "TecParkk\\Adicionar.cs",
+              "ToolTip": "C:\\Users\\bfggd\\source\\repos\\TecParkk\\TecParkk\\Adicionar.cs [Projeto]",
+              "RelativeToolTip": "TecParkk\\Adicionar.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T19:29:22.404Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Adicionar.cs",
+              "DocumentMoniker": "C:\\Users\\bfggd\\source\\repos\\TecParkk\\TecParkk\\Adicionar.cs",
+              "RelativeDocumentMoniker": "TecParkk\\Adicionar.cs",
+              "ToolTip": "C:\\Users\\bfggd\\source\\repos\\TecParkk\\TecParkk\\Adicionar.cs",
+              "RelativeToolTip": "TecParkk\\Adicionar.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T22:39:59.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\bfggd\\source\\repos\\TecParkk\\TecParkk\\Home.cs",
+              "RelativeDocumentMoniker": "TecParkk\\Home.cs",
+              "ToolTip": "C:\\Users\\bfggd\\source\\repos\\TecParkk\\TecParkk\\Home.cs",
+              "RelativeToolTip": "TecParkk\\Home.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:51:30.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Remove.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\bfggd\\source\\repos\\TecParkk\\TecParkk\\Remove.cs",
+              "RelativeDocumentMoniker": "TecParkk\\Remove.cs",
+              "ToolTip": "C:\\Users\\bfggd\\source\\repos\\TecParkk\\TecParkk\\Remove.cs [Projeto]",
+              "RelativeToolTip": "TecParkk\\Remove.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:21:04.744Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Controle.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\bfggd\\source\\repos\\TecParkk\\TecParkk\\Controle.cs",
+              "RelativeDocumentMoniker": "TecParkk\\Controle.cs",
+              "ToolTip": "C:\\Users\\bfggd\\source\\repos\\TecParkk\\TecParkk\\Controle.cs [Projeto]",
+              "RelativeToolTip": "TecParkk\\Controle.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:20:45.032Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Acoes.cs",
+              "DocumentMoniker": "C:\\Users\\bfggd\\source\\repos\\TecParkk\\TecParkk\\Acoes.cs",
+              "RelativeDocumentMoniker": "TecParkk\\Acoes.cs",
+              "ToolTip": "C:\\Users\\bfggd\\source\\repos\\TecParkk\\TecParkk\\Acoes.cs",
+              "RelativeToolTip": "TecParkk\\Acoes.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:26:20.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Tempo.cs",
+              "DocumentMoniker": "C:\\Users\\bfggd\\source\\repos\\TecParkk\\TecParkk\\Tempo.cs",
+              "RelativeDocumentMoniker": "TecParkk\\Tempo.cs",
+              "ToolTip": "C:\\Users\\bfggd\\source\\repos\\TecParkk\\TecParkk\\Tempo.cs",
+              "RelativeToolTip": "TecParkk\\Tempo.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAwIkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:38:00.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Tempo.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\bfggd\\source\\repos\\TecParkk\\TecParkk\\Tempo.cs",
+              "RelativeDocumentMoniker": "TecParkk\\Tempo.cs",
+              "ToolTip": "C:\\Users\\bfggd\\source\\repos\\TecParkk\\TecParkk\\Tempo.cs [Projeto]",
+              "RelativeToolTip": "TecParkk\\Tempo.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:38:40.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Tempo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\bfggd\\source\\repos\\TecParkk\\TecParkk\\Tempo.Designer.cs",
+              "RelativeDocumentMoniker": "TecParkk\\Tempo.Designer.cs",
+              "ToolTip": "C:\\Users\\bfggd\\source\\repos\\TecParkk\\TecParkk\\Tempo.Designer.cs",
+              "RelativeToolTip": "TecParkk\\Tempo.Designer.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwN4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:43:35.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Cadastrar.cs",
+              "DocumentMoniker": "C:\\Users\\bfggd\\source\\repos\\TecParkk\\TecParkk\\Cadastrar.cs",
+              "RelativeDocumentMoniker": "TecParkk\\Cadastrar.cs",
+              "ToolTip": "C:\\Users\\bfggd\\source\\repos\\TecParkk\\TecParkk\\Cadastrar.cs",
+              "RelativeToolTip": "TecParkk\\Cadastrar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:18:49.625Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
