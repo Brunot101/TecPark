@@ -14,4 +14,5 @@ Desenvolver um ambiente que seja possível gerir o tempo dos clientes e os dados
 
 
 ## Linguagens utilizadas
-- C#
+
+![C# Logo](https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png)
