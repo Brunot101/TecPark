@@ -15,8 +15,9 @@ namespace TecParkk
 
         private void bt_fuga_Click(object sender, EventArgs e)
         {
-            Controle controle = new Controle();
-            controle.ShowDialog();
+            
+            Precos precos = new Precos();
+            precos.ShowDialog();
             
         }
 

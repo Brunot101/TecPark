@@ -16,6 +16,9 @@
     <Compile Update="Home.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Precos.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Remove.cs">
       <SubType>Form</SubType>
     </Compile>

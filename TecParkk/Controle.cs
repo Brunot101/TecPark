@@ -18,13 +18,15 @@ namespace TecParkk
     {
         public List<Cliente> clientes = new List<Cliente>();
         private Timer timer;
+        public Precos precos;
        
-        public Controle()
+        public Controle(Precos precos)
         {
             
             InitializeComponent();
             InitializeDataGridView();
             this.FormClosed += Controle_FormClosed;
+            this.precos = precos;
 
 
         }
@@ -133,7 +135,7 @@ namespace TecParkk
             if (e.ColumnIndex == dataGridViewClientes.Columns["Pagamento"].Index && e.RowIndex >= 0 && e.RowIndex < clientes.Count())
             {
 
-                Resumo resumo = new Resumo(clientes[e.RowIndex]);
+                Resumo resumo = new Resumo(clientes[e.RowIndex], this.precos);
                 resumo.ShowDialog();
                 AtualizarDataGridView();
 

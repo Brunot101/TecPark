@@ -53,11 +53,11 @@
             tx_acrescimo30_resumo = new TextBox();
             tx_acrescimo45_resumo = new TextBox();
             tx_acrescimo60_resumo = new TextBox();
-            textBox9 = new TextBox();
-            textBox10 = new TextBox();
-            textBox11 = new TextBox();
-            textBox12 = new TextBox();
-            textBox13 = new TextBox();
+            tx_precoini_resumo = new TextBox();
+            tx_preco15min_resumo = new TextBox();
+            tx_preco30min_resumo = new TextBox();
+            tx_preco45min_resumo = new TextBox();
+            tx_preco60min_resumo = new TextBox();
             label18 = new Label();
             label19 = new Label();
             label20 = new Label();
@@ -66,9 +66,10 @@
             label24 = new Label();
             label25 = new Label();
             label21 = new Label();
-            textBox14 = new TextBox();
+            tx_total_resumo = new TextBox();
             tx_temporest_resumo = new TextBox();
             label26 = new Label();
+            label27 = new Label();
             SuspendLayout();
             // 
             // label1
@@ -295,45 +296,45 @@
             tx_acrescimo60_resumo.Size = new Size(75, 23);
             tx_acrescimo60_resumo.TabIndex = 24;
             // 
-            // textBox9
+            // tx_precoini_resumo
             // 
-            textBox9.Location = new Point(469, 367);
-            textBox9.Name = "textBox9";
-            textBox9.ReadOnly = true;
-            textBox9.Size = new Size(100, 23);
-            textBox9.TabIndex = 25;
+            tx_precoini_resumo.Location = new Point(469, 367);
+            tx_precoini_resumo.Name = "tx_precoini_resumo";
+            tx_precoini_resumo.ReadOnly = true;
+            tx_precoini_resumo.Size = new Size(100, 23);
+            tx_precoini_resumo.TabIndex = 25;
             // 
-            // textBox10
+            // tx_preco15min_resumo
             // 
-            textBox10.Location = new Point(469, 411);
-            textBox10.Name = "textBox10";
-            textBox10.ReadOnly = true;
-            textBox10.Size = new Size(100, 23);
-            textBox10.TabIndex = 26;
+            tx_preco15min_resumo.Location = new Point(469, 411);
+            tx_preco15min_resumo.Name = "tx_preco15min_resumo";
+            tx_preco15min_resumo.ReadOnly = true;
+            tx_preco15min_resumo.Size = new Size(100, 23);
+            tx_preco15min_resumo.TabIndex = 26;
             // 
-            // textBox11
+            // tx_preco30min_resumo
             // 
-            textBox11.Location = new Point(469, 450);
-            textBox11.Name = "textBox11";
-            textBox11.ReadOnly = true;
-            textBox11.Size = new Size(100, 23);
-            textBox11.TabIndex = 27;
+            tx_preco30min_resumo.Location = new Point(469, 450);
+            tx_preco30min_resumo.Name = "tx_preco30min_resumo";
+            tx_preco30min_resumo.ReadOnly = true;
+            tx_preco30min_resumo.Size = new Size(100, 23);
+            tx_preco30min_resumo.TabIndex = 27;
             // 
-            // textBox12
+            // tx_preco45min_resumo
             // 
-            textBox12.Location = new Point(469, 488);
-            textBox12.Name = "textBox12";
-            textBox12.ReadOnly = true;
-            textBox12.Size = new Size(100, 23);
-            textBox12.TabIndex = 28;
+            tx_preco45min_resumo.Location = new Point(469, 488);
+            tx_preco45min_resumo.Name = "tx_preco45min_resumo";
+            tx_preco45min_resumo.ReadOnly = true;
+            tx_preco45min_resumo.Size = new Size(100, 23);
+            tx_preco45min_resumo.TabIndex = 28;
             // 
-            // textBox13
+            // tx_preco60min_resumo
             // 
-            textBox13.Location = new Point(469, 525);
-            textBox13.Name = "textBox13";
-            textBox13.ReadOnly = true;
-            textBox13.Size = new Size(100, 23);
-            textBox13.TabIndex = 29;
+            tx_preco60min_resumo.Location = new Point(469, 525);
+            tx_preco60min_resumo.Name = "tx_preco60min_resumo";
+            tx_preco60min_resumo.ReadOnly = true;
+            tx_preco60min_resumo.Size = new Size(100, 23);
+            tx_preco60min_resumo.TabIndex = 29;
             // 
             // label18
             // 
@@ -410,13 +411,13 @@
             label21.TabIndex = 38;
             label21.Text = "R$";
             // 
-            // textBox14
+            // tx_total_resumo
             // 
-            textBox14.Location = new Point(691, 590);
-            textBox14.Name = "textBox14";
-            textBox14.ReadOnly = true;
-            textBox14.Size = new Size(75, 23);
-            textBox14.TabIndex = 39;
+            tx_total_resumo.Location = new Point(691, 590);
+            tx_total_resumo.Name = "tx_total_resumo";
+            tx_total_resumo.ReadOnly = true;
+            tx_total_resumo.Size = new Size(75, 23);
+            tx_total_resumo.TabIndex = 39;
             // 
             // tx_temporest_resumo
             // 
@@ -440,14 +441,25 @@
             label26.TabIndex = 41;
             label26.Text = "min";
             // 
+            // label27
+            // 
+            label27.AutoSize = true;
+            label27.Font = new Font("Segoe UI", 12F);
+            label27.Location = new Point(548, 43);
+            label27.Name = "label27";
+            label27.Size = new Size(73, 21);
+            label27.TabIndex = 42;
+            label27.Text = "Restante:";
+            // 
             // Resumo
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 633);
+            Controls.Add(label27);
             Controls.Add(label26);
             Controls.Add(tx_temporest_resumo);
-            Controls.Add(textBox14);
+            Controls.Add(tx_total_resumo);
             Controls.Add(label21);
             Controls.Add(label25);
             Controls.Add(label24);
@@ -456,11 +468,11 @@
             Controls.Add(label20);
             Controls.Add(label19);
             Controls.Add(label18);
-            Controls.Add(textBox13);
-            Controls.Add(textBox12);
-            Controls.Add(textBox11);
-            Controls.Add(textBox10);
-            Controls.Add(textBox9);
+            Controls.Add(tx_preco60min_resumo);
+            Controls.Add(tx_preco45min_resumo);
+            Controls.Add(tx_preco30min_resumo);
+            Controls.Add(tx_preco15min_resumo);
+            Controls.Add(tx_precoini_resumo);
             Controls.Add(tx_acrescimo60_resumo);
             Controls.Add(tx_acrescimo45_resumo);
             Controls.Add(tx_acrescimo30_resumo);
@@ -519,11 +531,11 @@
         private TextBox tx_acrescimo30_resumo;
         private TextBox tx_acrescimo45_resumo;
         private TextBox tx_acrescimo60_resumo;
-        private TextBox textBox9;
-        private TextBox textBox10;
-        private TextBox textBox11;
-        private TextBox textBox12;
-        private TextBox textBox13;
+        private TextBox tx_precoini_resumo;
+        private TextBox tx_preco15min_resumo;
+        private TextBox tx_preco30min_resumo;
+        private TextBox tx_preco45min_resumo;
+        private TextBox tx_preco60min_resumo;
         private Label label18;
         private Label label19;
         private Label label20;
@@ -532,8 +544,9 @@
         private Label label24;
         private Label label25;
         private Label label21;
-        private TextBox textBox14;
+        private TextBox tx_total_resumo;
         private TextBox tx_temporest_resumo;
         private Label label26;
+        private Label label27;
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TecParkk")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8e0ead904e68dc131a9f45856d24ea99f7a44d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1a9a947f05a37de92762b1259bf0a1595bdb1b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("TecParkk")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TecParkk")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
