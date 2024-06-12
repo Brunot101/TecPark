@@ -9,7 +9,7 @@ Desenvolver um ambiente que seja possível gerir o tempo dos clientes e os dados
 - [x] Temporizador para cada cliente
   - Gerar alertas para quando o tempo acabar;
   - Incrementar o tempo.
-- [ ] Registrar os preços
+- [x] Registrar os preços
   - Determinar os valores para cada minutagem dos clientes.
 - [ ] Paycheck
   - Fazer o resumo de valores a pagar do cliente;
